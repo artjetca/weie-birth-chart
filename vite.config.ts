@@ -21,9 +21,11 @@ export default defineConfig({
       position: 'bottom-right',
       prodOnly: true,
       clickable: true,
-      clickUrl: 'https://www.trae.ai/solo?showJoin=1',
+      clickUrl: 'https://wa.me/34626868104',
       autoTheme: true,
-      autoThemeTarget: '#root'
+      autoThemeTarget: '#root',
+      customText: 'WhatsApp',
+      customIcon: '💬'
     }), 
     tsconfigPaths()
   ],
